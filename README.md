@@ -70,15 +70,11 @@ Family 👪 carer.
 - 💎 Ethereum / Solidity (ETH)
 - ♾️ DFINITY / Motoko / Internet Machine (ICP)
 
-
 ### Game Development 🎮
+
 - 📦 Unity
 - 🖼️ WebGL
 - 💎 Three.js
-
-### Hornorable mentions 👑
-- 👴 jQuery
-- 👴 PhoneGap / Cordova
 
 ### Others 🔀
 - 🌱 Always learning
@@ -90,6 +86,10 @@ Family 👪 carer.
 - 🔂 Assembly
 - 📚 Created libraries and frameworks from scratch (most of them private unfortunately, NDA, you know)
 - 🤯 More stuff that I don't remember
+
+### Hornorable mentions 👑
+- 👴 jQuery
+- 👴 PhoneGap / Cordova
 
 
 #### Get in touch ✉️ z@zo0r.me
