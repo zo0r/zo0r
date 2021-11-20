@@ -44,13 +44,32 @@ Family 👪 carer.
 - ↔️ REST
 - 🔄 WebSockets
 - 👁️‍🗨️ GraphQL
+- ✨ Serverless
+- 📦 JAMstack
 
 ### Databases 🌐
-- GraphQL
+
 - 💾 SQL: MySQL / Postgres / SQLite
 - 🔀 NoSQL: MongoDB / DocumentDB / CouchDB
 - 🚀 Cache: Redis / DynamoDB
 - 🔎 Search: Elasticsearch / Cassandra db
+
+### DevOps 🗄️
+
+- ☁️ AWS / GCP / Azure / DO
+- 🐳 Docker
+- ☸️ Kubernetes
+- 📝 Terraform
+- 🤖 Github Actions
+- ✨ Jest / Puppeteer / Cypress.io
+
+### Blokchain, Dapps and Web3 🌐
+
+- 🔀 DeFi
+- 🖼️ NFT
+- 💎 Ethereum / Solidity (ETH)
+- ♾️ DFINITY / Motoko / Internet Machine (ICP)
+
 
 ### Game Development 🎮
 - 📦 Unity
