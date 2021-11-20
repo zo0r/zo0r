@@ -4,7 +4,9 @@
 
 I'm Jorge or George for non-spanish speakers 👋 (se habla español). Started coding at 12, till... now? +15 years of experience in the industry, I just simply love what I do.
 
-🌱 Started as a freelancer, worked for corporates and then switched to startups. I really like to create and solve real world problems, no BS example projects, I work on real things (but of course I love MVPs!). Do I need to say that I'm a gamer?
+🌱 Started as a **Freelancer** 😱, worked for **Corporates** 🏢, then switched to **Startups** 💡. I really like to create and solve real world problems, no BS example projects, I work on real things (but of course I love MVPs!). Do I need to say that I'm a gamer?
+
+Family 👪 carer.
 
 ### Languages 🌐
 
@@ -37,11 +39,14 @@ I'm Jorge or George for non-spanish speakers 👋 (se habla español). Started c
 
 ### Backend 🗄️
 
-- 🟢 Node (express and fastify)
-- 😾 NestJS
+- 🟢 Node (express, fastify and 😾 NestJS)
 - 🐘 PHP
+- ↔️ REST
+- 🔄 WebSockets
+- 👁️‍🗨️ GraphQL
 
 ### Databases 🌐
+- GraphQL
 - 💾 SQL: MySQL / Postgres / SQLite
 - 🔀 NoSQL: MongoDB / DocumentDB / CouchDB
 - 🚀 Cache: Redis / DynamoDB
