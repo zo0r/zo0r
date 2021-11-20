@@ -79,7 +79,7 @@ Family 👪 carer.
 ### Hornorable mentions 👑
 - 👴 jQuery
 - 👴 PhoneGap / Cordova
- 
+
 ### Others 🔀
 - 🌱 Always learning
 - ⚡ ZeroMQ
@@ -91,19 +91,5 @@ Family 👪 carer.
 - 📚 Created libraries and frameworks from scratch (most of them private unfortunately, NDA, you know)
 - 🤯 More stuff that I don't remember
 
+
 #### Get in touch ✉️ z@zo0r.me
-
-<!--
-**zo0r/zo0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
