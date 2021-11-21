@@ -63,7 +63,7 @@ Family 👪 carer.
 - 🤖 Github Actions
 - ✨ Jest / Puppeteer / Cypress.io
 
-### Blokchain, Dapps and Web3 🌐
+### Blockchain, Dapps and Web3 🌐
 
 - 🔀 DeFi
 - 🖼️ NFT
