@@ -6,7 +6,7 @@ I'm Jorge or George for non-spanish speakers 👋 (se habla español). Started c
 
 🌱 Started as a **Freelancer** 😱, worked for **Corporates** 🏢, then switched to **Startups** 💡. I really like to create and solve real world problems, no BS example projects, I work on real things (but of course I love MVPs!). Do I need to say that I'm a gamer?
 
-Family 👪 carer.
+Family 👪 🐶 carer.
 
 ### Languages 🌐
 
