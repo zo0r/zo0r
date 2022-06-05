@@ -30,6 +30,7 @@ Family 👪 🐶 carer.
 - 🆕 Modern ECMAScript
 - ⚛️ React (Class, Functional, Hooks, Context, Redux, Toolkit, Query, etc)
 - 🔺 NextJS
+- VanillaJS
 
 ### Mobile 📱
 
@@ -66,8 +67,9 @@ Family 👪 🐶 carer.
 ### Blockchain, Dapps and Web3 🌐
 
 - 🔀 DeFi
-- 🖼️ NFT
-- 💎 Ethereum / Solidity (ETH)
+- 🖼️ NFTs
+- 💎 Ethereum / Avalanche / Solidity (EVM)
+- Ⓝ NEAR Protocol
 - ♾️ DFINITY / Motoko / Internet Machine (ICP)
 
 ### Game Development 🎮
