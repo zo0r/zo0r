@@ -68,6 +68,7 @@ Family 👪 🐶 carer.
 
 - 🔀 DeFi
 - 🖼️ NFTs
+- ⚪ The Graph
 - 💎 Ethereum / Avalanche / Solidity (EVM)
 - Ⓝ NEAR Protocol
 - ♾️ DFINITY / Motoko / Internet Machine (ICP)
