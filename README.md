@@ -1,10 +1,8 @@
 ### Sr Fullstack Software Engineer ⚙️
 
-### Hello World 👋
+Hello there folks 👋!
 
-I'm Jorge or George for non-spanish speakers 👋 (se habla español). Started coding at 12, till... now? +15 years of experience in the industry, I just simply love what I do.
-
-🌱 Started as a **Freelancer** 😱, worked for **Corporates** 🏢, then switched to **Startups** 💡. I really like to create and solve real world problems, no BS example projects, I work on real things (but of course I love MVPs!). Do I need to say that I'm a gamer?
+🌱 Started as a **Freelancer** 😱 (~2008-2011), worked for **Corporates** 🏢 (~2011-2015), then switched to **Startups** (~2015-present) 💡. Do I need to say that I'm a gamer? Yes, I do 3D stuff as well!
 
 Family 👪 🐶 carer.
 
@@ -12,10 +10,12 @@ Family 👪 🐶 carer.
 
 - 🔤 Javascript
 - 🔠 Typescript
+- ⚙️ Rust
+- 🐘 PHP (I don't use it anymore)
 - 🐍 Python
 - ♨️ Java
-- 🐘 PHP
 - ♾️ C/C++
+- 🪁 Solidity
 
 ### Scripting 📜
 - 📜 Bash
@@ -26,9 +26,9 @@ Family 👪 🐶 carer.
 
 - 🥷 Since IE6
 - 📄 HTML/XHTML/HTML5/XML
-- 🎨 CSS/CSS3, of course `css-modules`, `styled components`, SASS and Less.
-- 🆕 Modern ECMAScript
-- ⚛️ React (Class, Functional, Hooks, Context, Redux, Toolkit, Query, etc)
+- 🎨 CSS/CSS3, of course `css-modules`, `styled components`, SASS, Less and `pixel-perfect` lover.
+- 🆕 Modern ECMAScript and Web Browser APIs
+- ⚛️ React (Hooks, Context, zustand, Fiber, Query, etc) (prev: Redux/Toolkit)
 - 🔺 NextJS
 - VanillaJS
 
@@ -41,9 +41,12 @@ Family 👪 🐶 carer.
 ### Backend 🗄️
 
 - 🟢 Node (express, fastify and 😾 NestJS)
+- ⚙️ Rust
 - 🐘 PHP
 - ↔️ REST
+- 🌐 gRPC
 - 🔄 WebSockets
+- 🖥️ WebRTC
 - 👁️‍🗨️ GraphQL
 - ✨ Serverless
 - 📦 JAMstack
@@ -64,20 +67,21 @@ Family 👪 🐶 carer.
 - 🤖 Github Actions
 - ✨ Jest / Puppeteer / Cypress.io
 
-### Blockchain, Dapps and Web3 🌐
+### Blockchain and Web3 🌐
 
 - 🔀 DeFi
 - 🖼️ NFTs
 - ⚪ The Graph
-- 💎 Ethereum / Avalanche / Solidity (EVM)
+- 💎 Ethereum / Avalanche / Polygon (EVM)
+- 🌞 Solana
+- ꜩ Tezos
 - Ⓝ NEAR Protocol
 - ♾️ DFINITY / Motoko / Internet Machine (ICP)
 
 ### Game Development 🎮
 
 - 📦 Unity
-- 🖼️ WebGL
-- 💎 Three.js
+- 💎 Three.js / WebGL / WebGPU (I love react-three-fiber!)
 
 ### Others 🔀
 - 🌱 Always learning
@@ -85,14 +89,13 @@ Family 👪 🐶 carer.
 - 📙 Firebase
 - 📗 Swagger
 - ⚡ Electron
-- ⏪ Reverse engineer
+- ⏪ Reverse engineering
 - 🔂 Assembly
-- 📚 Created libraries and frameworks from scratch (most of them private unfortunately, NDA, you know)
+- 📚 Created libraries and frameworks from scratch (some of them are private unfortunately, NDA, you know)
 - 🤯 More stuff that I don't remember
 
 ### Hornorable mentions 👑
 - 👴 jQuery
-- 👴 PhoneGap / Cordova
 
 
 #### Get in touch ✉️ z@zo0r.me
