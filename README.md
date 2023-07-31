@@ -30,7 +30,8 @@ Family 👪 🐶 carer.
 - 🆕 Modern ECMAScript and Web Browser APIs
 - ⚛️ React (Hooks, Context, zustand, Fiber, Query, etc) (prev: Redux/Toolkit)
 - 🔺 NextJS
-- VanillaJS
+- 💨 Tailwind
+- 🥠 VanillaJS
 
 ### Mobile 📱
 
@@ -82,6 +83,8 @@ Family 👪 🐶 carer.
 
 - 📦 Unity
 - 💎 Three.js / WebGL / WebGPU (I love react-three-fiber!)
+- 🖌️ Blender
+
 
 ### Others 🔀
 - 🌱 Always learning
