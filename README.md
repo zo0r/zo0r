@@ -19,6 +19,12 @@ Family 👪 🐶 carer.
 - ♾️ C/C++
 - 🪁 Solidity
 
+### AI 🪄
+- 🤖 Agents
+- 🧠 Models
+- ⏩ Prompt Design / Engineering
+- 🛡️ Red Teaming
+
 ### Scripting 📜
 - 📜 Bash
 - 🔵 Lua
