@@ -2,6 +2,8 @@
 
 Hello there folks 👋!
 
+_I lead a cracked 10x boutique agency [zydeer.com](https://zydeer.com), we ship as fast you're reading this. Got a product in mind? We make it happen._
+
 🌱 Started as a **Freelancer** 😱 (~2008-2011), worked for **Corporates** 🏢 (~2011-2015), then switched to **Startups** (~2015-present) 💡. Do I need to say that I'm a gamer? Yes, I do 3D stuff as well!
 
 Family 👪 🐶 carer.
@@ -41,7 +43,7 @@ Family 👪 🐶 carer.
 
 ### Backend 🗄️
 
-- 🟢 Node (express, fastify and 😾 NestJS)
+- 🟢 Node (hono, express, fastify and nestjs)
 - ⚙️ Rust
 - 🐘 PHP
 - ↔️ REST
@@ -61,12 +63,12 @@ Family 👪 🐶 carer.
 
 ### DevOps 🗄️
 
-- ☁️ AWS / GCP / Azure / DO
+- ☁️ AWS / GCP / Azure / DO / Railway
 - 🐳 Docker
 - ☸️ Kubernetes
 - 📝 Terraform
 - 🤖 Github Actions
-- ✨ Jest / Puppeteer / Cypress.io
+- ✨ Vitest / Jest / Puppeteer / Cypress.io
 
 ### Blockchain and Web3 🌐
 
@@ -77,6 +79,7 @@ Family 👪 🐶 carer.
 - 🌞 Solana
 - ꜩ Tezos
 - Ⓝ NEAR Protocol
+- ⚛️ Cosmos
 - ♾️ DFINITY / Motoko / Internet Machine (ICP)
 
 ### Game Development 🎮
